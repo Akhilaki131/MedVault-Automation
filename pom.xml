@@ -71,7 +71,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
-			<version>5.2.4.RELEASE</version>
+			<version>5.3.19</version>
 		</dependency>
 
 		<dependency>
